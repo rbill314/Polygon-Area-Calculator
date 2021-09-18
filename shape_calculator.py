@@ -1,6 +1,6 @@
-#class Rectangle:
+class Rectangle:
 
 
     
 
-#class Square:
+class Square:
